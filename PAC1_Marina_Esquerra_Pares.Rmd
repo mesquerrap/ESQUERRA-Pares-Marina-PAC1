@@ -454,6 +454,6 @@ Cal tenir en compte que l'exploració multivariant de les dades basada només en
 Així doncs, caldria realitzar un anàlisi multivariant amb més profunditat donat que la cachecia, implica un alteració global del perfil metabolòmic. Estudiar l'impacte de més metabolits i la seva implicació a les vies de deteriorament de teixit muscular i adipós per acabar de definir quins són els biomarcadors i els sus valors que indiquen cachexia.  
 
 
-
-
+Directori github
+https://github.com/mesquerrap/ESQUERRA-Pares-Marina-PAC1
 
